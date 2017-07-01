@@ -13,8 +13,6 @@ List<实体类> selectByPage(@Param("offset") Long offset, @Param("limit") Long 
 </select>
 ```
 
-注:以上SQL语句暂时仅适配MySQL数据库
-
 ### 安装
 下载此项目,在此项目根目录下执行以下 Maven 命令安装此项目到本地仓库
 ```
